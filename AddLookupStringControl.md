@@ -1,6 +1,6 @@
 # 给原创Form的String Control添加Lookup
 
-```C#
+```X++
 public void lookup()
     {
         Query query = new Query();
