@@ -60,7 +60,7 @@ BOM定义必需的材料，Resource定义生产的地点，工顺定义从生产
 通过设定它，将production order和勘定科目相关联。    
 使用勘定科目的话，可以転記order用于report，也可以将其group化。
 
-<font color=bff2ff>生産管理グループ（Production pools）</font>    
+**<font color=bff2ff>生産管理グループ（Production pools）</font>**    
 通过设定它，group化production order。   
 处理紧急的production order，删除或転記order groups都可以实现。
 
