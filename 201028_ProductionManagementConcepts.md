@@ -60,15 +60,15 @@ BOM定义必需的材料，Resource定义生产的地点，工顺定义从生产
 通过设定它，将production order和勘定科目相关联。    
 使用勘定科目的话，可以転記order用于report，也可以将其group化。
 
-**<font color=b7af7ff>生産管理グループ（Production pools）</font>**    
+**<font color=7af7ff>生産管理グループ（Production pools）</font>**    
 通过设定它，group化production order。   
 处理紧急的production order，删除或転記order groups都可以实现。
 
-**<font color=b7af7ff>プロパティ（Properties）</font>**     
+**<font color=7af7ff>プロパティ（Properties）</font>**     
 为了使用计划过程，可以给Resource定义特殊的属性。    
 这些属性与working time template相联系。    
 
-**<font color=b7af7ff>リソースの能力（Resource capabilities）</font>**    
+**<font color=7af7ff>リソースの能力（Resource capabilities）</font>**    
 在多个工顺都需要Resource的情况下，创建Resource能力。    
 上述情况可以用Resource能力的set来表示。   
 由此，Resource的分配可以延期到生产计划时。   
@@ -84,6 +84,6 @@ BOM定义必需的材料，Resource定义生产的地点，工顺定义从生产
 終了（End）
 
 
-### 参考资料
+**<font color=ffc033>参考资料</font>**
 
 [https://docs.microsoft.com/en-us/learn/modules/get-started-production-control-dyn365-supply-chain-mgmt/2-concepts-prod-control](https://docs.microsoft.com/en-us/learn/modules/get-started-production-control-dyn365-supply-chain-mgmt/2-concepts-prod-control)
