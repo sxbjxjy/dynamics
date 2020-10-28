@@ -87,3 +87,7 @@ BOM定义必需的材料，Resource定义生产的地点，工顺定义从生产
 開始（Start）   
 完了レポート（Report as finished）    
 終了（End）
+
+### 参考资料
+
+[https://docs.microsoft.com/en-us/learn/modules/get-started-production-control-dyn365-supply-chain-mgmt/2-concepts-prod-control](https://docs.microsoft.com/en-us/learn/modules/get-started-production-control-dyn365-supply-chain-mgmt/2-concepts-prod-control)
