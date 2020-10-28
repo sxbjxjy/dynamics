@@ -56,7 +56,7 @@ BOM定义必需的材料，Resource定义生产的地点，工顺定义从生产
 
 ## 定义可选项设定
 
-**生産グループ（Production groups）**   
+**<font color=bff2ff>生産グループ（Production groups）</font>**   
 通过设定它，将production order和勘定科目相关联。    
 使用勘定科目的话，可以転記order用于report，也可以将其group化。
 
