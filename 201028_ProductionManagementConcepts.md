@@ -56,22 +56,19 @@ BOM定义必需的材料，Resource定义生产的地点，工顺定义从生产
 
 ## 定义可选项设定
 
-**生産グループ（Production groups）**
+**生産グループ（Production groups）**   
 通过设定它，将production order和勘定科目相关联。    
 使用勘定科目的话，可以転記order用于report，也可以将其group化。
 
-#### 生産管理グループ（Production pools）
-
+**生産管理グループ（Production pools）**    
 通过设定它，group化production order。   
 处理紧急的production order，删除或転記order groups都可以实现。
 
-#### プロパティ（Properties）
-
+**プロパティ（Properties）**     
 为了使用计划过程，可以给Resource定义特殊的属性。    
 这些属性与working time template相联系。    
 
-#### リソースの能力（Resource capabilities）
-
+**リソースの能力（Resource capabilities）**    
 在多个工顺都需要Resource的情况下，创建Resource能力。    
 上述情况可以用Resource能力的set来表示。   
 由此，Resource的分配可以延期到生产计划时。   
